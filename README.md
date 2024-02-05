@@ -9,7 +9,7 @@
 ![Windows 11 PC](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-[WSA](https://img.shields.io/badge/Android%2014%20WSA-00BBFF?style=flat-square&logo=Android&logoColor=ffffff)
+![WSA](https://img.shields.io/badge/Android%2014%20WSA-00BBFF?style=flat-square&logo=Android&logoColor=ffffff)
 ![WSL2](https://img.shields.io/badge/Ubuntu%2023%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Deepin](https://img.shields.io/badge/Deepin%2023%20Beta3-007CFF?style=flat-square&logo=Deepin&logoColor=ffffff)
 <!--
