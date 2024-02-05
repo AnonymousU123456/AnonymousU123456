@@ -10,8 +10,9 @@
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSA](https://img.shields.io/badge/Android%2014%20WSA-34A853?style=flat-square&logo=Android&logoColor=ffffff)
-![WSL2](https://img.shields.io/badge/Ubuntu%2023%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2023%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Deepin](https://img.shields.io/badge/Deepin%2023%20Beta3-007CFF?style=flat-square&logo=Deepin&logoColor=ffffff)
+![Kali](https://img.shields.io/badge/Kali%20Linux%202023%2e4-557C94?style=flat-square&logo=Kali%20Linux&logoColor=ffffff)
 <!--
 **AnonymousU123456/AnonymousU123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
