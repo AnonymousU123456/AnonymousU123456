@@ -5,7 +5,7 @@
 # Visitors
 ![](https://count.getloli.com/get/@AnonymousU123456?theme=gelbooru)
 # 📱 Devices
-![Redmi 9](https://img.shields.io/badge/Redmi%209-ED9121?style=flat-square&logo=redmi&logoColor=ffffff)
+![Xiaomi Mi Note 3](https://img.shields.io/badge/Redmi%209-ED9121?style=flat-square&logo=redmi&logoColor=ffffff)
 ![Windows 11 PC](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
