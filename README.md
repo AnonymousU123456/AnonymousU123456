@@ -6,7 +6,7 @@
 ![](https://count.getloli.com/get/@AnonymousU123456?theme=gelbooru)
 # 📱 Devices
 ![Xiaomi Mi Note 3](https://img.shields.io/badge/Xiaomi%20Mi%20Note%203-ED9121?style=flat-square&logo=Xiaomi&logoColor=ffffff)
-![Windows 11 PC](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Windows 11 PC](https://img.shields.io/badge/Windows%2011%20PC-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSA](https://img.shields.io/badge/Android%2014%20WSA-34A853?style=flat-square&logo=Android&logoColor=ffffff)
