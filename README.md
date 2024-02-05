@@ -1,5 +1,5 @@
 ### Hi there 👋
-![ColdWindScholar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousU123456&show_icons=true&theme=tokyonight)
+![AnonymousU123456's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousU123456&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousU123456&layout=compact&langs_count=10&theme=radical)
 # Visitors
 ![](https://count.getloli.com/get/@AnonymousU123456?theme=gelbooru)
