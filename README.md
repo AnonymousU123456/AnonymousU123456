@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+![ColdWindScholar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousU123456&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousU123456&layout=compact&langs_count=10&theme=radical)
+# Visitors
+![](https://count.getloli.com/get/@AnonymousU123456?theme=gelbooru)
+# 📱 Devices
+![Redmi 8](https://img.shields.io/badge/Redmi%208-ED9121?style=flat-square&logo=redmi&logoColor=ffffff)
+![Windows 11 PC](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+# 💻 Environment
+![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![WSL2](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 <!--
 **AnonymousU123456/AnonymousU123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
