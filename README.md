@@ -4,6 +4,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousU123456&layout=compact&langs_count=10&theme=radical)
 # Visitors
 ![](https://count.getloli.com/get/@AnonymousU123456?theme=gelbooru)
+# Repos
+[](https://github.com/AnonymousU123456/android_kernel_xiaomi_mt6877)
 # 📱 Devices
 ![Xiaomi Mi Note 3](https://img.shields.io/badge/Xiaomi%20Mi%20Note%203-ED9121?style=flat-square&logo=Xiaomi&logoColor=ffffff)
 ![Windows 11 PC](https://img.shields.io/badge/ROG%20Windows%2011%20Laptop-FF0029?style=flat-square&logo=republicofgamers&logoColor=ffffff)
